@@ -3,7 +3,7 @@
 // name, age, if they are alive, and their phone number.
 // You do not need to capture these values from the user.
 
-//initialize variables
+//initialize variables to null
 string firstName = null;
 string lastName = null;
 int? age = null;
